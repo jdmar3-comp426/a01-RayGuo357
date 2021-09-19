@@ -1,0 +1,81 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+head {
+    top: 10%;
+    margin-block-start: 1em;
+}
+
+body {
+    background-color: #faebd7;
+}
+
+h1 {
+    padding: 1%;
+    margin-block-start: 2%;
+    margin-block-end: 2%;
+    font-style: italic;
+    font-family: "Copperplate", fantasy;
+}
+
+.navBar {
+    position: relative;
+    width: 100%;
+    height: 46px;
+    left: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    background-color: #808080;
+}
+
+ul > li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #808080;
+}
+
+li a:hover {
+    background-color: #d3d3d3;
+    color: #000000;
+}
+
+.body {
+    border-style: double;
+}
+
+#trivList {
+    margin-block-start: 1%;
+    margin-block-end: 1%;
+    list-style-type: circle;
+    position: relative;
+    left: 2%;
+}
+
+#figuresList {
+    margin-block-start: 1%;
+    margin-block-end: 1%;
+    list-style-type: circle;
+    position: relative;
+    left: 2%;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.inline {
+    display: inline;
+}

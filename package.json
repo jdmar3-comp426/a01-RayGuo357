@@ -1,0 +1,22 @@
+{
+  "name": "a01-rayguo357",
+  "version": "1.0.0",
+  "description": "A webpage",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a01-RayGuo357.git"
+  },
+  "author": "Raymond Guo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-RayGuo357/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-RayGuo357#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
