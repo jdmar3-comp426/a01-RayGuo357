@@ -63,7 +63,6 @@ li a:hover {
     margin-block-end: 1%;
     list-style-type: circle;
     position: relative;
-    left: 2%;
 }
 
 #figuresList {
@@ -71,9 +70,9 @@ li a:hover {
     margin-block-end: 1%;
     list-style-type: circle;
     position: relative;
-    left: 2%;
     font-style: oblique;
     font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .inline {
